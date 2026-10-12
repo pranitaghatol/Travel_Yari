@@ -1,2 +1,2 @@
 # Travel_Yari
-Travel Yari Project
+Responsive travel website built using HTML, CSS and Bootstrap
